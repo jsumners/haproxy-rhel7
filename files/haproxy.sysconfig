@@ -1,0 +1,5 @@
+CONFIG="/etc/haproxy/haproxy.cfg"
+PIDFILE="/run/haproxy.pid"
+
+# Extra configuration options that will be appended to the command line
+OPTIONS=""
