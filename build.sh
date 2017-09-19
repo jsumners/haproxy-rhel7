@@ -2,7 +2,7 @@
 
 # TODO: add lua building
 
-haproxyVersion="1.7.8"
+haproxyVersion="1.7.9"
 luaVersion="5.3.4"
 
 haproxyUrl="http://www.haproxy.org/download/${haproxyVersion:0:3}/src/haproxy-${haproxyVersion}.tar.gz"
